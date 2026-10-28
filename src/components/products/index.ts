@@ -1,0 +1,7 @@
+export { FeaturedProducts } from './FeaturedProducts'
+export { ProductCard } from './ProductCard'
+export { ProductTable } from './ProductTable'
+export { ProductFilters } from './ProductFilters'
+export { ProductGrid } from './ProductGrid'
+export { ProductDetailModal } from './ProductDetailModal'
+export { ProductDetailPage } from './ProductDetailPage'

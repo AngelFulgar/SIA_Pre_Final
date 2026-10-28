@@ -1,0 +1,18 @@
+:root {
+  font-family: "DM Sans", "Segoe UI", sans-serif;
+  color: #24231f;
+  background: #f8f6f1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --ink: #24231f;
+  --muted: #77766f;
+  --line: #e6e3db;
+  --paper: #fffefa;
+  --canvas: #f8f6f1;
+  --green: #314d3d;
+  --green-soft: #e7ede6;
+  --orange: #d0714f;
+  --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --shadow: 0 22px 70px rgb(34 33 29 / 13%);
+}
